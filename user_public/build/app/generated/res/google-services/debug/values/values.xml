@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1029557359685-nte9iei15tb5193l3pgut4lt5i89ooh0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1029557359685</string>
+    <string name="google_api_key" translatable="false">AIzaSyBo6RS9BxgT7E8BQT0KX3GucpkAn1MJlBs</string>
+    <string name="google_app_id" translatable="false">1:1029557359685:android:c206d92639df6030f9ff2c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBo6RS9BxgT7E8BQT0KX3GucpkAn1MJlBs</string>
+    <string name="google_storage_bucket" translatable="false">hapticfone-ff0c4.firebasestorage.app</string>
+    <string name="project_id" translatable="false">hapticfone-ff0c4</string>
+</resources>

@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "{": "hapticfone-ff0c4",
+    "firebase use --add": "flutter-web-hapticadmin",
+    "firebase deploy --only hosting:user": "hapticfone-ff0c4"
+  },
+  "targets": {
+    "hapticfone-ff0c4": {
+      "hosting": {
+        "user": [
+          "hapticfone-ff0c4"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
